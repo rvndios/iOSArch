@@ -1,5 +1,5 @@
 # iOSArch
-iOS All complete Architecture samples - MVVM, VIPER, MVC
+iOS VIPER Architecture initial file for connecting between V I P E R
 
 ## Quick Start Protocol - Code Snippet for VIPER Projects
 
